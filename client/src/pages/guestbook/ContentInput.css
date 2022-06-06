@@ -1,0 +1,19 @@
+#contentDiv{
+    padding: 20px;
+    text-align: center;
+}
+
+
+#textInput {
+    width: 600px;
+    height: 600px;
+    font-size: 1rem;
+    font-family: "NanumSquareB";
+}
+#textButton {
+    font-size: 1.3rem;
+    font-family: "NanumSquareB";
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 10px;
+}
